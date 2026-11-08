@@ -1,8 +1,8 @@
 export const heroData = {
   name: 'Rogelio Lozano',
   title: 'IT Professional',
-  description: 'I used my knowledge of hardware, troubleshooting, and netowrking to solve issues in order to keep businesses and individuals thriving.',
-  profilePicture: 'src/images/headshot.jpg',
+  description: 'I used my knowledge of hardware, troubleshooting, and networking to solve issues in order to keep businesses and individuals thriving.',
+  profilePicture: 'public/headshot.jpg',
   skills: [
     'JavaScript',
     'React',
