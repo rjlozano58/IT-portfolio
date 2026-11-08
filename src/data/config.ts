@@ -1,8 +1,8 @@
 export const config = {
-  siteTitle: 'John Doe Portfolio',
-  description: 'Hi, I am John Doe, a passionate web developer and data analyst. I thrive on solving problems and building innovative solutions with modern technology.',
-  author: 'John Doe',
-  contactEmail: 'johndoe@example.com',
+  siteTitle: 'Rogelio Lozano Portfolio',
+  description: 'Hi, I am Rogelio Lozano, a passionate Educatior, and aspiring IT Professional. I thrive on solving problems and building innovative solutions with modern technology.',
+  author: 'Rogelio Lozano',
+  contactEmail: 'rjlozano58@gmail.com',
   keywords: 'portfolio, business intelligence, data analysis, Power BI Reports, Software Engineer, Web Developer',
   favicon: '/favicon.svg',
   social: {
