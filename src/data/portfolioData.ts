@@ -17,16 +17,17 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Customer Insights Dashboard for E-Commerce",
-    summary: "Developed an interactive Power BI dashboard to analyze customer behavior, sales trends, and marketing performance for an e-commerce company.",
+    title: "Self-Hosted Home Server",
+    summary: "Repurposing an old laptop into a homeserver that hold movies, music, audiobooks, photos, and block ads on my home network.",
     images: [
-      "https://example.com/dashboard1.jpg",
-      "https://example.com/dashboard2.jpg",
-      "https://example.com/dashboard3.jpg"
+      "/roglab_media_2.png",
+      "/roglab_media_1.png",
+      "/roglab_media_3.png",
+      "/roglab_media_4.png",
     ],
-    tags: ["Power BI", "SQL", "Data Visualization", "Customer Analytics", "Business Intelligence"],
+    tags: ["buntu Server", "Docker", "CasaOS", "OpenSSH", "Tailscale", "Bash"],
     details: {
-      challenge: "The company lacked a centralized reporting system to track customer engagement, purchase patterns, and marketing campaign effectiveness.",
+      challenge: "In a world where everything requires a subscription, we have lost the passion for physical media.",
       solution: "Designed and implemented a Power BI dashboard integrating data from Google Analytics, CRM systems, and sales records, providing real-time insights.",
       impact: [
         "Increased marketing ROI by 25% through data-driven campaign adjustments.",

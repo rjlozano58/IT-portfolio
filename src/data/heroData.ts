@@ -1,25 +1,30 @@
 export const heroData = {
   name: 'Rogelio Lozano',
-  title: 'IT Professional',
-  description: 'I used my knowledge of hardware, troubleshooting, and networking to solve issues in order to keep businesses and individuals thriving.',
-  profilePicture: 'public/headshot.jpg',
+  title: 'IT Support & Network Engineer',
+  description: 'IT and networking enthusiast with a CS degree, a homelab, and a habit of fixing things properly. Comfortable at the command line, at the help desk, and in front of a classroom.',
+  profilePicture: '/headshot.jpg',
   skills: [
-    'JavaScript',
-    'React',
-    'Node.js',
-    'SQL',
-    'Python',
-    'Power BI',
-    'DAX',
-    'ETL',
-    'Data Modeling',
-    'API Development',
-    'Cloud Computing',
-    'Machine Learning'
+    'Linux',
+    'Docker',
+    'Bash/shell',
+    'macOS',
+    'Windows',
+    'Active Directory',
+    'Jira',
+    'SSH',
+    'Server Troubleshooting',
+    'Device Inventory Managment',
+    'TCP/IP',
+    'Subnetting',
+    'DNS',
+    'Switch and Router Configuration',
+    'Network Troubleshooting',
+    'Cisco Packet Tracer',
+
   ],
   contact: {
-    github: 'https://github.com/johndoe',
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    email: 'johndoe@example.com'
+    github: 'https://github.com/rjlozano58',
+    linkedin: 'https://www.linkedin.com/in/rogelio-lozano-9a2758211/',
+    email: 'rjlozano58@gmail.com'
   }
 };
