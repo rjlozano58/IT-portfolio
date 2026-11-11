@@ -7,22 +7,41 @@ export type Job = {
 
 export const jobs: Job[] = [
   {
-    title: "Data Analyst",
-    company: "Tech Solutions Inc.",
-    dates: "01/2019 - 12/2022",
+    title: "Swift Programming Instructor",
+    company: "Sandbox - Apple Community Education Initiative",
+    dates: "Jun 2025 - Present",
     description: [
-      "Developed interactive Power BI dashboards to analyze business performance and customer trends.",
-      "Automated ETL processes using Python and SQL to improve data processing efficiency by 40%.",
-      "Collaborated with stakeholders to identify key performance metrics and optimize reporting strategies.",
-      "Designed predictive models to forecast revenue and customer churn, providing actionable insights.",
-      "Managed data extraction from multiple sources, including APIs, databases, and cloud storage.",
-      "Presented analytical findings to executive teams, leading to data-driven decision-making."
+      "Provide on-site technical support as the go-to for 70+ students’ device issues, resolving hardware, software, and connectivity problems.",
+      "Manage inventory and check-out of 100+ MacBooks and iPads, keeping accurate device loan records and contracts.",
+      "Taught multiple 8-week Swift and SwiftUI courses, achieving a 100% pass rate on the Swift Associate certification exam.",
+      
+    ]
+  },
+
+
+  {
+    title: "Data Analyst Intern",
+    company: "Google",
+    dates: "Jul 2024 - Aug 2024",
+    description: [
+      "Analyzed 50+ datasets using SQL in Google BigQuery and built Looker Studio dashboards that surfaced trends in YouTube’s user experience and growth.",
+      "Developed and pitched YouShop, a YouTube e-commerce integration, to an audience of 100+, presenting market research and technical analysis.",
     ]
   },
   {
-    title: "Software Engineer",
-    company: "Innovatech Solutions",
-    dates: "03/2023 - Present",
+    title: "Software Engineering Intern",
+    company: "A Better Chicago",
+    dates: "Jun 2024 - Jul 2024",
+    description: [
+      "Built a Python and Streamlit web tool integrating the Google Gemini API to estimate applicant success rates, speeding up grant review.",
+      "Improved evaluation accuracy by fine-tuning AI models on records of 200+ past candidates.",
+      
+    ]
+  },
+  {
+    title: "iOS Developer Intern",
+    company: "Everyone Can Code - Apple Community Education Initiative",
+    dates: "Jun 2024 - Jul 2024",
     description: [
       "Developed full-stack web applications using React, Node.js, and MongoDB.",
       "Implemented RESTful APIs and integrated third-party services for enhanced application functionality.",

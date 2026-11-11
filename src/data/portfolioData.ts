@@ -25,13 +25,14 @@ export const projects: Project[] = [
       "/roglab_media_3.png",
       "/roglab_media_4.png",
     ],
-    tags: ["buntu Server", "Docker", "CasaOS", "OpenSSH", "Tailscale", "Bash"],
+    tags: ["Ubuntu Server", "Docker", "CasaOS", "OpenSSH", "Tailscale", "Bash"],
     details: {
-      challenge: "In a world where everything requires a subscription, we have lost the passion for physical media.",
-      solution: "Designed and implemented a Power BI dashboard integrating data from Google Analytics, CRM systems, and sales records, providing real-time insights.",
+      challenge: "I wanted to own my media, photos, and data instead of paying for multiple subscriptions and relying on third-party cloud services, using hardware I already had. That meant turning an old laptop into a reliable, always-on server that others could use securely from anywhere..",
+      solution: "I repurposed a laptop into an Ubuntu Linux server and deployed containerized services with Docker and CasaOS: Jellyfin for media, Immich for photo backups, Audiobookshelf for audiobooks, and Navidrome for music. I set up secure remote administration through OpenSSH and a Tailscale VPN, published services to the internet through Cloudflare, and am deploying AdGuard Home for network-wide, DNS-level ad blocking. I also wrote Bash scripts that shut the server down safely at signs of overheating or compromise.",
       impact: [
-        "Increased marketing ROI by 25% through data-driven campaign adjustments.",
-        "Enhanced customer segmentation, leading to a 15% improvement in personalized recommendations and repeat purchases."
+        "Hosts services used by family and friends, allowing others to save money on media.",
+        "Kept services available by troubleshooting network, hardware, and software issues to the root cause, keeping the server running since June 2026.",
+        "Built hands-on Linux administration, containerization, networking, and remote-access skills that I now apply to help desk and IT support work."
       ]
     }
   },
