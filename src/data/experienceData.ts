@@ -17,8 +17,6 @@ export const jobs: Job[] = [
       
     ]
   },
-
-
   {
     title: "Data Analyst Intern",
     company: "Google",
@@ -41,14 +39,12 @@ export const jobs: Job[] = [
   {
     title: "iOS Developer Intern",
     company: "Everyone Can Code - Apple Community Education Initiative",
-    dates: "Jun 2024 - Jul 2024",
+    dates: "Sep 2023 - Dec 2023",
     description: [
-      "Developed full-stack web applications using React, Node.js, and MongoDB.",
-      "Implemented RESTful APIs and integrated third-party services for enhanced application functionality.",
-      "Optimized SQL queries and database schemas to improve system performance.",
-      "Led a team of junior developers, mentoring them on best practices in software engineering.",
-      "Designed and implemented CI/CD pipelines, reducing deployment time by 50%.",
-      "Collaborated with UX/UI designers to enhance the user experience of web applications."
+      "Developed Chivi, an iOS app that helps tourists explore Chicago affordably using public transportation.",
+      "Built the app in Swift as part of a team, working in Agile sprints and tracking tasks and progress in Jira, from concept through investor pitch.",
+      "Gained hands-on experience in product development and presenting to stakeholders."
     ]
   }
 ];
+
