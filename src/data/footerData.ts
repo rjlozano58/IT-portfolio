@@ -17,6 +17,6 @@ export const footerData = {
       icon: 'Mail'
     }
   ],
-  quote: '"Code is like humor. When you have to explain it, it’s bad."',
-  githubCodeLink: 'https://github.com/raulrls/Astro-Shadcn-portfolio'
+  quote: '"It doesn\'t cost anything to be kind"',
+  resumeLink: "/RogelioLozano_Resume.pdf",
 };

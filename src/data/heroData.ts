@@ -1,6 +1,6 @@
 export const heroData = {
   name: 'Rogelio Lozano',
-  title: 'IT Support & Network Engineer',
+  title: 'IT Support & Network Engineer | First Generation',
   description: 'IT and networking enthusiast with a CS degree, a homelab, and a habit of fixing things properly. Comfortable at the command line, at the help desk, and in front of a classroom.',
   profilePicture: '/headshot.jpg',
   skills: [
