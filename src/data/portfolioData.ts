@@ -73,22 +73,23 @@ export const projects: Project[] = [
       ]
     }
   },
-  // {
-  //   id: 4,
-  //   title: "LLM Emotion Detection Research",
-  //   summary: "Created an automated ETL pipeline to streamline financial reporting, reducing manual data processing time for a financial services firm.",
-  //   images: [
-  //     "https://example.com/finance1.jpg",
-  //     "https://example.com/finance2.jpg"
-  //   ],
-  //   tags: ["Python", "ETL", "Data Engineering", "Finance", "Power BI", "Automation"],
-  //   details: {
-  //     challenge: "The finance team spent excessive time manually aggregating and reconciling data from multiple sources for monthly reports.",
-  //     solution: "Developed a Python-based ETL pipeline that extracted, cleaned, and loaded financial data into Power BI, automating report generation.",
-  //     impact: [
-  //       "Reduced reporting time from 5 days to a few hours, improving efficiency.",
-  //       "Minimized errors in financial reports, ensuring data accuracy for decision-making."
-  //     ]
-  //   }
-  // }
+  {
+    id: 4,
+    title: "Summers with Everyone Can Code - From Teaching Assistant to Instructor",
+    summary: "I first joined Everyone Can Code as a student in its AI + Entrepreneurship program in 2023. That led to an iOS Developer Internship, where my team built Chivi, an app for exploring Chicago by public transit, and deployed it to the App Store. The program gave me my start in tech, so I came back to give that same start to others: first as a Teaching Assistant in summer 2025, then as a Swift Instructor leading my own cohort in summer 2026.",
+    images: [
+       "storybloom_at_apple.jpeg", "storybloom_and_me.jpeg", "/ecc_2026\ showcase.jpeg"
+    ],
+    tags: ["Leading", "Public Speaking", "Presentation Skills", "Captivating an Audience"],
+    details: {
+      challenge: "Many students in the program were building their first iOS app, often with little or no coding experience, in a single summer. Beyond learning Swift, they had to work as a team, turn an idea into a working product, and pitch it confidently in front of large audiences, including at Apple events.",
+      solution: "As a Teaching Assistant, I supported students one-on-one, troubleshooting their code and devices and explaining concepts in plain language. After being promoted to Instructor, I led a summer cohort through building iOS apps in Swift and SwiftUI, guiding teams from app concept through design, development, and final presentation. I also coached students on public speaking so they could present their apps with confidence.",
+      impact: [
+        "Promoted from Teaching Assistant to Instructor after one summer.",
+        "Coached the StoryBloom team, which won competitions and presented their app at Apple events.",
+        "Led a cohort of 20 students from their first lines of Swift to finished, presentable iOS apps.",
+        "Strengthened my leadership, communication, and presentation skills by teaching technical concepts to non-technical learners."
+      ]
+    }
+  },
 ];
